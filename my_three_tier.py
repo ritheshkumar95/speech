@@ -1,7 +1,3 @@
-"""
-RNN Speech Generation Model
-Ishaan Gulrajani
-"""
 import os, sys
 sys.path.append(os.getcwd())
 
